@@ -1,1 +1,1 @@
-# Krushi-GPT---Agricultural-Assistant
+# Krushi-GPT _Agricultural_Assistant
